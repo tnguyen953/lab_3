@@ -1,4 +1,3 @@
-
 doc {
   background: green;
   height: 960px;
@@ -6,26 +5,24 @@ doc {
 }
 
 .container {
-  body: purple;
+  background: purple;
   margin: 0;
 }
 
   div {
-    color: red
-    width: 100px;
+    color: red;
     height: 42px;
   }
 
 newsline {
   font-size: 42px;
-  font-style: bold;
+  font-style: oblique;
   font-weight: 400;
 }
 
 wrapper {
   width: 60%;
   height: 100vh;
-  width: 22vh;
   background: grey;
 }
 
